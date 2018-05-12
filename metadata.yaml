@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35635'
     url: http://www.gutenberg.org/2009/agents/35635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32048#Cottage-Building-in-Cob-Pis--Chalk-and-Clay--A-Renaissance--2nd-edition-
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
