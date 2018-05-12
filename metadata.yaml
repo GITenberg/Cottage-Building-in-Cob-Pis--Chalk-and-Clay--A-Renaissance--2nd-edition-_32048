@@ -1,0 +1,46 @@
+_repo: Cottage-Building-in-Cob-Pis--Chalk-and-Clay--A-Renaissance--2nd-edition-_32048
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Strachey, John St. Loe
+    aliases:
+    - St. Loe Strachey, John
+    - Strachey, J. St. Loe
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '2087'
+    url: http://www.gutenberg.org/2009/agents/2087
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams-Ellis, Clough
+    aliases:
+    - Williams-Ellis, C. (Clough)
+    - Williams-Ellis, Bertram Clough
+    birthdate: 1883
+    deathdate: 1978
+    gutenberg_agent_id: '35635'
+    url: http://www.gutenberg.org/2009/agents/35635
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32048'
+  lccn: '2007570226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic -- Designs and plans'
+- !lcc 'TH'
+- !lcsh 'Chalk'
+- !lcsh 'Earth houses -- Design and construction'
+- !lcsh 'Architecture, Domestic -- England'
+- !lcsh 'Pisé'
+- !lcsh 'Cob (Building material)'
+title: 'Cottage Building in Cob, Pisé, Chalk and Clay: A Renaissance (2nd edition)'
+url: http://www.gutenberg.org/ebooks/32048
